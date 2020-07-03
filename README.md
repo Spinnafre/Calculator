@@ -20,8 +20,9 @@ Esse projeto foi desenvolvido com:
 2. Somatório
 3. Subtração
 4. Igualdade
-5-Multiplicação
-6-Limpar Tela
+5. Multiplicação
+6. Limpar a tela
+
 
 
 
