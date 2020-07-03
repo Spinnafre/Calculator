@@ -1,7 +1,7 @@
 # MY CRUD
 
 <h1 align="center">
-  <img  src="https://github.com/Spinnafre/myCrud/blob/master/anigif.gif" alt="gif do app" width=60% height=60%>
+  <img  src="https://github.com/Spinnafre/Calculator/blob/master/calculator.jpg" alt="gif do app" width=40% height=40%>
 </h1>
 
 
