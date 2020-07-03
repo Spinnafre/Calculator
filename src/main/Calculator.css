@@ -1,0 +1,44 @@
+.Calculator{ 
+    height:320px ;
+    width: 250px;
+    border-radius: 17px;
+    /* box-shadow: 4px 1px 5px rgb(44, 38, 38); */
+    overflow: hidden;
+
+    display: grid;
+    grid-template-columns: repeat(4,25%);
+    grid-template-rows: 1fr 48px 48px 48px 48px 48px;
+
+}
+@keyframes mudarCor{
+    0% {
+        background-color: rgba(8, 8, 8, 0.889);
+        color: rgb(219, 214, 214);
+
+    }
+    100% {
+        background-color: rgba(255, 255, 255, 0.917);
+        color: rgb(60, 60, 57);
+    }
+
+}
+
+.NomeCalculadora{
+    /* box-shadow: 4px 1px 5px rgb(44, 38, 38); */
+    border-radius: 5px;
+    height: 45px;
+    padding: 2px;
+    z-index: -1;
+    top: 0px;
+    position: relative;
+    
+    animation-name: mudarCor;
+    animation-duration: 6s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-fill-mode: both;
+    animation-timing-function: ease-in-out;
+
+    
+    
+}

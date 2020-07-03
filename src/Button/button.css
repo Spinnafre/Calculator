@@ -1,0 +1,42 @@
+:root{
+    --fundo1:#ffffffe4;
+    --fundo2:#55555587;
+    --fundo3:#ffffff8b;
+    --tamanho:10px;
+    --border:solid 0.1px #888;
+}
+
+.button{
+    font-size: 2em;
+    background-color: var(--fundo1);
+    border: none;
+    border-right: var(--border-button);
+    border-bottom: var(--border);
+    outline: none;
+    border-radius: 0px;
+
+    box-shadow: 1px 1px 2px rgb(44, 38, 38);
+}
+
+.button:active{
+    background-color: var(--fundo3);
+    box-shadow: 1px 1px 2.3px rgb(44, 38, 38);
+    font-size: 1.7em;
+    
+    
+}
+.button.double{
+    grid-column: span 2;
+}
+.button.triple{
+    grid-column: span 3;
+}
+.button.operation{
+    color: white;
+    background-color: rgba(174, 226, 107, 0.765);
+}
+.button.operation:active{
+    background-color: rgba(174, 226, 107, 0.503);
+    box-shadow: 1px 1px 2.3px rgb(44, 38, 38);
+    font-size: 1.7em;
+}
