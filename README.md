@@ -8,25 +8,27 @@
 
 ## :card_index:Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto foi desenvolvido com:
 
-- [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
-- [Bootstrap]https://getbootstrap.com/)
+
 
 ## 💻 Projeto
 ### :mahjong: Funcionalidades
 
-1. Criar Usuário 
-2. Deletar Usuário
-3. Editar Usuário
-4. Ler usuário
+1. Divisão
+2. Somatório
+3. Subtração
+4. Igualdade
+5-Multiplicação
+6-Limpar Tela
+
 
 
 ### :dart: Objetivo
-Com base nos estudos sobre as funcionalidades do React, NodeJs, Bootstrap e Responsividade, resolvi criar uma aplicação para treinar programação web. 
+Com base nos estudos sobre as funcionalidades do Reacte, resolvi criar uma aplicação baseada na calculadora do MAC, simples e minimalista porém adicionei animação do título da calculadora enquando a aplicação está rodando, pois também estava treinando animações com CSS. 
 
-:warning: OBS: Não trabalhei com nenhum tipo de banco de dados na aplicação.
+
 
 
 
