@@ -1,4 +1,4 @@
-# MY CRUD
+# MY CALCULATOR
 
 <h1 align="center">
   <img  src="https://github.com/Spinnafre/Calculator/blob/master/calculator.jpg" alt="gif do app" width=40% height=40%>
